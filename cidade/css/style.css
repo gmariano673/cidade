@@ -1,0 +1,77 @@
+* {
+    background-color:mediumblue;
+}
+
+a {
+    text-decoration: none;
+    color: darkorange;
+}
+
+#titulo {
+    color: darkorange;
+font-family: 'Trebuchet MS';
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+
+.importante {
+    display: flex;
+    justify-content: center;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   background-color:darkorange;
+}
+
+.introducao {
+    color: mediumblue;
+}
+
+article ul {
+color: darkorange;
+font-size: 24px;
+}
+
+h1, h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3, p {
+    color: darkorange;
+}
+
+input[type="email"] {
+    background-color: darkorange;
+}
+
+.botao {
+     color: darkorange;
+    background-color: black;
+}
+
+.botao:hover {
+    color: green;
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+    font-family:Arial, Helvetica, sans-serif;
+}

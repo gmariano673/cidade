@@ -1,0 +1,27 @@
+* {
+    background-color: mediumblue;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: darkorange;
+    color: mediumblue;
+}
+
+figure {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    flex-basis: auto;
+}
+
+.item {
+    border: 3px solid darkorange;
+}
+
+.item:hover {
+    border-color: green;
+}
